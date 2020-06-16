@@ -1,0 +1,75 @@
+Full Stack Engineer (Remote)
+ARLINGTON, VIRGINIA /ENGINEERING – SOFTWARE DEVELOPMENT /FULL-TIME - 001
+About U.Group
+U.Group is an advanced technology and creative design company radically focused on using customer-centric innovation to create new opportunities in the public and 
+private sectors. Working collaboratively out of offices in Arlington, VA, Washington, DC, Portland, OR, and in the heart of the action at client sites—U.Group 
+delivers best-in-class digital services, powerful data platforms, augmented reality solutions, integrated marketing strategies, bundled services, and more. 
+To learn more, visit www.U.Group.
+
+Role Summary
+As a Full Stack Software Engineer at U.Group, you will be part of an integrated project team delivering scalable and secure systems. You will use user-centered 
+and agile methodologies to build and continuously deploying the server and client side solutions. As a member of a project delivery team, you will collaborate 
+with project and product managers, user experience designers, and business analysts. Your efforts will directly serve and assist end-users. Your work will be 
+produced in the context of U.Group’s DevSecOps practices, including but not limited to continuous development, deployment, integration, and monitoring. Our s
+olutions need to be “cloud-first”, scalable, and deployed in containers. Full stack engineers at U.Group are expected to have experience developing or 
+integrating databases as well as developing and integrating server and client applications. 
+ 
+Citizenship Status: US Citizenship required and have resided in the U.S. for three of the past five years.  
+Location: Washington, DC | Arlington, VA | Portland, OR | Indianapolis, IN | Remote
+Clearance: Current, or have the ability to obtain, public trust or higher security clearance 
+
+Minimum Qualification Requirements
+This position is for one of our programs supporting the federal government. As part of the hiring process for programs like this, each candidate’s resume is 
+evaluated against a strict set of requirements defined by the government client. For a candidate to be found “minimally qualified”, their resume must clearly 
+illustrate all the requirements. For more information on preparing a federal resume, check out this GitHub Repo: https://github.com/rooneywp/govcon-hiring-guide/blob/master/resume_prep_guide.md
+
+The minimum qualification requirements for this position are:
+Must have a minimum of five (5) years of experience in the Information Technology field focusing on AI/ML development projects using DevSecOps and AWS cloud environments. 
+Shall experience with full stack engineering, including at least three (3) years of experience deploying production enterprise applications in AWS that use AI/ML. 
+Shall have at least three (3) years of specific software engineering experience related to front-end and back-end applications and/or data services. 
+Shall possess experience in large scale, high-performance enterprise big data application deployment and solution architecture on complex heterogeneous environments in AWS. 
+Shall possess experience with automation and engineering tasks, AI/ML implementation, data, infrastructure/operations, and security engineer tasks in USCIS cloud environments. 
+Key Objective #1: Write and deploy server-side applications in containerized environment on AWS
+Write clean, concise, and maintainable code  
+Actively participate in merge requests  
+Help define and enforce development best practices  
+Automate pain points in the software development process (local development and CI/CD pipeline)  
+Contribute to the development of user stories, acceptance criteria and participate in story estimation  
+Participate in writing automated tests to verify the intent of stories  
+Support other developers through code reviews and pairing when they have questions or hit blockers 
+Key Objective #2: Support and improve the overall system and server-side data-center applications to run on AWS
+Plan and carry out deployments (roughly once a month)  
+Investigate data quality issues raised by users of the system  
+Investigate errors in applications and perform root cause analysis  
+Research data sources for ways to expand the usefulness of the system  
+Provide application programming interfaces (APIs) and services 
+Contribute to hardening OS images, applications, and containers 
+Perform security scans and produce reports of the outcomes  
+Project Details
+Languages: Java 8+, Rust, go (golang), Kotlin backend, and JavaScript or TypeScript frontend  
+Frameworks: Spring Framework (preferably Spring Boot), Node.js, Redux  
+Web Frameworks: Angular, React or Vue  
+Database: PostgreSQL, MySQL, MS SQL, MongoDB  
+Infrastructure: Jenkins, Terraform, Amazon Web Services (AWS) or Google Cloud Platform (GCP)  
+Development Tools: Git, Gradle, Maven  
+Development Methodologies: Test Driven Development, Agile Software Delivery, Scrum, Continuous Integration/ Continuous Deployment 
+
+
+Life at U.Group
+We encourage our colleagues to lead balanced lives. Our comprehensive benefits include medical, dental, vision, disability, wellness programs, flexible spending, 20 days paid time off, and paid holidays. We also offer:
+Flex Time and Remote Work Options
+Education reimbursement program
+Fitness Reimbursement
+Transit/parking subsidy program
+Parental Leave Policy
+Professional Development Program
+401(k) with Company Match
+
+EQUAL EMPLOYMENT OPPORTUNITY – Our policy is to provide equal employment opportunity (EEO) to all persons regardless of age, color, national origin, citizenship 
+status, physical or mental disability, race, religion, creed, gender, sex, sexual orientation, gender identity and/or expression, genetic information, marital 
+status, status with regard to public assistance, veteran status, or any other characteristic protected by federal, state or local law. In addition, we will 
+provide reasonable accommodations for qualified individuals with disabilities.
+
+U.Group shall abide by the requirements of 41 CFR §§ 60-300.5(a) and 60-741.5(a). These regulations prohibit discrimination against qualified individuals on 
+the basis of protected veteran status or disability, and require affirmative action by covered prime contractors and subcontractors to employ and advance in 
+employment qualified protected veterans and individuals with disabilities.
